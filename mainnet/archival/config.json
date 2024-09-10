@@ -159,6 +159,7 @@
     "sync_height_threshold": 1
   },
   "tracked_accounts": [],
+  "archive": true,
   "tracked_shards": [
     0
   ],

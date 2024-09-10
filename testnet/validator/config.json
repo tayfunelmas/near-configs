@@ -159,9 +159,7 @@
     "sync_height_threshold": 1
   },
   "tracked_accounts": [],
-  "tracked_shards": [
-    0
-  ],
+  "tracked_shards": [],
   "log_summary_style": "colored",
   "log_summary_period": {
     "secs": 10,
@@ -224,6 +222,8 @@
       "secs": 1,
       "nanos": 0
     },
+    "load_mem_tries_for_shards": [],
+    "load_mem_tries_for_tracked_shards": true,
     "state_snapshot_enabled": false,
     "state_snapshot_compaction_enabled": false
   },
